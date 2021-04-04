@@ -1,0 +1,6 @@
+// Full config: https://github.com/jimmontour/eslint-config-jimmontour
+{
+   "extends": [
+      "jimmontour"
+   ]
+}
